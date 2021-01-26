@@ -24,7 +24,7 @@
 					<a class="nav-link" href="/showemployee.php">Show All Employee</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/addemployee.php">Add Employee</a>
+					<a class="nav-link" href="/index.php">Add Employee</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="/updatedetails.php">Edit Employee</a>
