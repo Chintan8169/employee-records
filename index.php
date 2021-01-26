@@ -43,7 +43,7 @@ if (isset($_POST['empid'])) {
 	}
 	?>
 	<div class="container my-3">
-		<form action="addemployee.php" method="post">
+		<form action="/addemployee.php" method="post">
 			<div class="form-group">
 				<label for="empid">Employee ID</label>
 				<input class="form-control" name="empid" class="empid" type="number" required>

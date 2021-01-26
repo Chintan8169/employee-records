@@ -38,7 +38,7 @@ if (isset($_POST['empid'])) {
 	}
 	?>
 	<div class="container my-3">
-		<form action="/Practical10/deleteemployee.php" method="post">
+		<form action="/deleteemployee.php" method="post">
 			<div class="form-group">
 				<label for="empid">Enter Employee id to delete</label>
 				<input class="form-control" name="empid" class="empid" type="number" required>

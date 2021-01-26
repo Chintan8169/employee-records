@@ -60,7 +60,7 @@ if (isset($_POST['oldempid'])) {
 	}
 	?>
 	<div class="container my-3">
-		<form action="/Practical10/updatedetails.php" method="post">
+		<form action="/updatedetails.php" method="post">
 			<div class="form-group">
 				<label for="oldempid">Enter employee id whose data is wrong.</label>
 				<input class="form-control" id="oldempid" name="oldempid" type="number" required>

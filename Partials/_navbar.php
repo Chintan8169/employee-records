@@ -13,7 +13,7 @@
 
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-		<a class="navbar-brand" href="/Practical10/addemployee.php">Employee Recordbook</a>
+		<a class="navbar-brand" href="/addemployee.php">Employee Recordbook</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -21,16 +21,16 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="/Practical10/showemployee.php">Show All Employee</a>
+					<a class="nav-link" href="/showemployee.php">Show All Employee</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/Practical10/addemployee.php">Add Employee</a>
+					<a class="nav-link" href="/addemployee.php">Add Employee</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/Practical10/updatedetails.php">Edit Employee</a>
+					<a class="nav-link" href="/updatedetails.php">Edit Employee</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="/Practical10/deleteemployee.php">Delete Employee</a>
+					<a class="nav-link" href="/deleteemployee.php">Delete Employee</a>
 				</li>
 		</div>
 	</nav>
